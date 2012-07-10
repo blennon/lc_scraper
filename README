@@ -1,0 +1,1 @@
+This is a data scraper to get loan data from the lend ing club website.  It is not maintained and the scapers (based on BeautifulSoup) are sensitive to changes in the HTML structure.
